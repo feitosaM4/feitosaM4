@@ -9,10 +9,20 @@
 😄 Pronouns: ela/dela
   <picture>
   <source 
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feitosaM4&show_icons=true&theme=synthwave)
-</picture>
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feitosaM4&show_icons=true&theme=synthwave)
+
+---
+
+## 📫 Contato
+
 <div>
- <a href = "mailto:manuelafeitosa7.mf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/manoela-feitosa-a86944172" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:manuelafeitosa7.mf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/manoela-feitosa-a86944172" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
