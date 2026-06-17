@@ -4,11 +4,6 @@
 
 💻 Concluí o módulo de Iniciante em Programação, incluindo HTML, CSS, JavaScript e lógica de programação.
 
-🚀 Atualmente, estou me especializando em Back-End e estou animada para criar projetos e aprender mais!
-
-🎓 Curso Sistemas de Informação na Faculdade Impacta.
-
-😄 Pronouns: ela/dela
 
 
 ---
