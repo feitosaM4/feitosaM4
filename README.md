@@ -1,9 +1,9 @@
-👋 Olá! Sou Manoela Feitosa, estudante de Sistemas de Informação na Faculdade Impacta e iniciante em programação.
 
-🎓 Fui selecionada para o programa ONE - Oracle Next Education, em parceria com a Alura, onde estou expandindo meus conhecimentos em desenvolvimento.
+👋 Olá! Sou Manoela Feitosa, estudante de Sistemas de Informação na Faculdade Impacta.
 
-💻 Concluí o módulo de Iniciante em Programação, incluindo HTML, CSS, JavaScript e lógica de programação.
+🎓 Concluí o programa Oracle Next Education (ONE), em parceria com a Alura, onde desenvolvi conhecimentos em lógica de programação, HTML, CSS, JavaScript e fundamentos de desenvolvimento.
 
+💻 Atualmente, continuo ampliando meus conhecimentos em tecnologia por meio da graduação, estudos independentes e projetos práticos.
 
 
 ---
